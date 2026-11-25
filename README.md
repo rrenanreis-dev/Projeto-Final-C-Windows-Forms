@@ -67,8 +67,12 @@ Caixa de diálogo solicitando confirmação antes de remover o registro selecion
 
 <img width="847" height="447" alt="remover" src="https://github.com/user-attachments/assets/dbcc1f82-b4d0-46fa-8ea3-dd6434685af9" />
 
+### 6. Validação na Aba Alterar
+Aviso exibido caso o usuário tente alterar um registro sem antes selecioná-lo na aba **Buscar**.
 
-### 6. Alteração de Registro
+<img width="838" height="447" alt="erroalterar" src="https://github.com/user-attachments/assets/f7e0ba06-c0ab-4d04-a5f8-797625729d36" />
+
+### 7. Alteração de Registro
 Aba dedicada para editar os campos de um bovino selecionado e confirmar a alteração.
 
 <img width="837" height="442" alt="alterar" src="https://github.com/user-attachments/assets/39870437-a4cc-4685-9221-35e02e68ae8f" />
