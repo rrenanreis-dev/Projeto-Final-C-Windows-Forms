@@ -48,24 +48,28 @@ Acesso inicial ao sistema com usuário e senha.
 ### 2. Cadastro de Bovino
 Preenchimento dos dados do animal (nome, raça, sexo, idade e preço) e atalho (`+`) para cadastrar raça.
 
-![Tela de Cadastro](assets/02-cadastro.png)
+<img width="840" height="450" alt="cadastrar" src="https://github.com/user-attachments/assets/82aaccd8-c3d6-4aa6-8be2-e5ad30160599" />
+
 
 ### 3. Confirmação de Cadastro
-Feedback visual exibindo a mensagem de confirmação após salvar o registro.
+<img width="846" height="444" alt="cadastrado" src="https://github.com/user-attachments/assets/dccac40f-7e57-42e9-9e9e-5b998b8041e5" />
 
-![Cadastro Concluído](assets/03-cadastro-sucesso.png)
+
 
 ### 4. Busca e Listagem
 Visualização dos bovinos cadastrados na tabela, com campo de busca e ações de **Remover** e **Alterar**.
 
-![Busca e Listagem](assets/04-buscar.png)
+<img width="834" height="442" alt="bovinoscadastrados" src="https://github.com/user-attachments/assets/e825d8ff-ca1f-419c-aebb-55dae2104210" />
+
 
 ### 5. Confirmação de Exclusão
 Caixa de diálogo solicitando confirmação antes de remover o registro selecionado.
 
-![Confirmação de Exclusão](assets/05-remover.png)
+<img width="847" height="447" alt="remover" src="https://github.com/user-attachments/assets/dbcc1f82-b4d0-46fa-8ea3-dd6434685af9" />
+
 
 ### 6. Alteração de Registro
 Aba dedicada para editar os campos de um bovino selecionado e confirmar a alteração.
 
-![Alterar Bovino](assets/06-alterar.png)
+<img width="837" height="442" alt="alterar" src="https://github.com/user-attachments/assets/39870437-a4cc-4685-9221-35e02e68ae8f" />
+
