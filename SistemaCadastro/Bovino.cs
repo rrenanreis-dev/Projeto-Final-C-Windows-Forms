@@ -8,6 +8,7 @@ namespace SistemaCadastro
 {
     class Bovino
     {
+        //Atributos
         int idBovino;
         string nome;
         int idade;
