@@ -13,6 +13,7 @@ namespace SistemaCadastro
         MySqlConnection conexao = new MySqlConnection("server=localhost;user id=root;password=1234;database=banco_leilao");
         public string mensagem = "";
 
+        
         public DataTable listaCategorias()
         {
             MySqlCommand cmd = new MySqlCommand("sp_listaCategorias", conexao);
@@ -26,6 +27,7 @@ namespace SistemaCadastro
             return tabela;
         }
 
+        
         public DataTable listaSexos()
         {
             MySqlCommand cmd = new MySqlCommand("sp_listaSexos", conexao);

@@ -16,6 +16,7 @@ namespace SistemaCadastro
         int fkCategoria;
         int fkSexo;
 
+        //Propriedades
         public int IdBovino { get => idBovino; set => idBovino = value; }
         public string Nome { get => nome; set => nome = value; }
         public int Idade { get => idade; set => idade = value; }

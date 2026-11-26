@@ -12,16 +12,19 @@ namespace SistemaCadastro
 {
     public partial class FormLogin : Form
     {
+        //Construtor
         public FormLogin()
         {
             InitializeComponent();
         }
 
+        //Botão de fechar 
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        //confirmação de login
         private void BtnLogin_Click(object sender, EventArgs e)
         {
             ConectaBanco conecta = new ConectaBanco();
@@ -40,6 +43,11 @@ namespace SistemaCadastro
         }
 
         private void FormLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
