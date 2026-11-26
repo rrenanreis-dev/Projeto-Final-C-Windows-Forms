@@ -15,16 +15,19 @@ namespace SistemaCadastro
     {
         private int idBovinoSelecionado = 0;
 
+        //Inicializador
         public Sistema()
         {
             InitializeComponent();
         }
 
+        //fechar
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
+        //Aba cadastrar
         private void btnCadastra_Click(object sender, EventArgs e)
         {
             marcador.Height = btnCadastra.Height;
@@ -32,6 +35,7 @@ namespace SistemaCadastro
             tabControl1.SelectedTab = tabControl1.TabPages[0];
         }
 
+        //Aba buscar
         private void btnBusca_Click(object sender, EventArgs e)
         {
             marcador.Height = btnBusca.Height;
@@ -39,6 +43,7 @@ namespace SistemaCadastro
             tabControl1.SelectedTab = tabControl1.TabPages[1];
         }
 
+        //Carrega banco
         void lista_gridBovinos()
         {
             ConectaBanco con = new ConectaBanco();
@@ -46,6 +51,7 @@ namespace SistemaCadastro
             dgBovinos.Columns["idbovino"].Visible = false;
         }
 
+        //Preenche combobox
         private void Sistema_Load(object sender, EventArgs e)
         {
             listaCBCategorias();
@@ -54,6 +60,7 @@ namespace SistemaCadastro
             lista_gridBovinos();
         }
 
+        //Preenche combobox raça
         public void listaCBCategorias()
         {
             ConectaBanco con = new ConectaBanco();
@@ -63,6 +70,7 @@ namespace SistemaCadastro
             cbcategoria.ValueMember = "idcategoria";
         }
 
+        //Preenche combobox sexo
         public void listaCBSexos()
         {
             ConectaBanco con = new ConectaBanco();
@@ -72,6 +80,7 @@ namespace SistemaCadastro
             cbsexo.ValueMember = "idsexo";
         }
 
+        //Preenche combobox alterar
         public void listaCBAlterar()
         {
             ConectaBanco con = new ConectaBanco();
@@ -87,6 +96,7 @@ namespace SistemaCadastro
             cbAlterarSexo.ValueMember = "idsexo";
         }
 
+        //Limpa campos
         void LimpaCampos()
         {
             txtnome.Clear();
@@ -97,6 +107,7 @@ namespace SistemaCadastro
             txtnome.Focus();
         }
 
+        //Limpa campos
         void LimpaCamposAlterar()
         {
             txtAlterarNome.Clear();
@@ -107,6 +118,7 @@ namespace SistemaCadastro
             idBovinoSelecionado = 0;
         }
 
+        //janela nova raça
         private string PedirNovaRaca()
         {
             using (Form prompt = new Form())
@@ -132,6 +144,7 @@ namespace SistemaCadastro
             }
         }
 
+        //Botão adicionar raça
         private void bntAddRaca_Click(object sender, EventArgs e)
         {
             string novaRaca = PedirNovaRaca();
@@ -162,6 +175,7 @@ namespace SistemaCadastro
             }
         }
 
+        //insere bovino
         private void BtnConfirmaCadastro_Click(object sender, EventArgs e)
         {
             if (cbcategoria.SelectedValue == null || cbsexo.SelectedValue == null)
@@ -192,14 +206,15 @@ namespace SistemaCadastro
             LimpaCampos();
             lista_gridBovinos();
         }
-
+        //mostra busca
         private void txtBusca_TextChanged(object sender, EventArgs e)
         {
             (dgBovinos.DataSource as DataTable).DefaultView.RowFilter =
                 string.Format("nome like '{0}%'", txtBusca.Text);
         }
 
-        private void btnRemoveBanda_Click(object sender, EventArgs e)
+        //remove bovino
+        private void btnRemoveBovino_Click(object sender, EventArgs e)
         {
             int linha = dgBovinos.CurrentRow.Index;
             int id = Convert.ToInt32(
@@ -222,6 +237,7 @@ namespace SistemaCadastro
                 MessageBox.Show("Exclusão cancelada");
         }
 
+        //alterar bovino
         private void btnAlterar_Click(object sender, EventArgs e)
         {
             if (dgBovinos.CurrentRow == null)

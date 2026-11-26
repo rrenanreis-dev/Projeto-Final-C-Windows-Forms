@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\sistema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\renan\\source\\repos\\projeto-final-c-windows-forms\\sistemacadastro\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Sistema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.Designer.cs",
+              "ToolTip": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.Designer.cs",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.Designer.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAApwKABAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:22:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.cs*",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.cs*",
+              "ViewState": "AgIAAMEAAAAAAAAAAAASwNcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T00:41:45.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ConectaBanco.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\ConectaBanco.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\ConectaBanco.cs",
               "ToolTip": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\ConectaBanco.cs",
               "RelativeToolTip": "SistemaCadastro\\ConectaBanco.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-26T00:34:22.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Biblioteca.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Biblioteca.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Biblioteca.cs",
@@ -68,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Program.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Program.cs",
@@ -81,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormLogin.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\FormLogin.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\FormLogin.cs",
@@ -94,19 +128,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Sistema.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
-              "ToolTip": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.cs [Design]",
-              "RelativeToolTip": "SistemaCadastro\\Sistema.cs [Design]",
+              "ToolTip": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Sistema.cs [Design]*",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-26T00:20:29.943Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\FormLogin.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\FormLogin.cs",
@@ -118,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Bovino.cs",
               "DocumentMoniker": "C:\\Users\\Renan\\source\\repos\\Projeto-Final-C-Windows-Forms\\SistemaCadastro\\Bovino.cs",
               "RelativeDocumentMoniker": "SistemaCadastro\\Bovino.cs",
