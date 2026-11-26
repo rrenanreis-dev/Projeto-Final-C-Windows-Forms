@@ -214,7 +214,7 @@ namespace SistemaCadastro
         }
 
         //remove bovino
-        private void btnRemoveBovino_Click(object sender, EventArgs e)
+        private void btnRemoveBanda_Click(object sender, EventArgs e)
         {
             int linha = dgBovinos.CurrentRow.Index;
             int id = Convert.ToInt32(

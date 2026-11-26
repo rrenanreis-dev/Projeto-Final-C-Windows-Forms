@@ -56,7 +56,7 @@ namespace SistemaCadastro
             this.label4 = new System.Windows.Forms.Label();
             this.tabBuscar = new System.Windows.Forms.TabPage();
             this.btnAlterar = new System.Windows.Forms.Button();
-            this.btnRemoveBovino = new System.Windows.Forms.Button();
+            this.btnRemoveBanda = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.txtBusca = new System.Windows.Forms.TextBox();
             this.dgBovinos = new System.Windows.Forms.DataGridView();
@@ -369,7 +369,7 @@ namespace SistemaCadastro
             // 
             this.tabBuscar.BackColor = System.Drawing.Color.White;
             this.tabBuscar.Controls.Add(this.btnAlterar);
-            this.tabBuscar.Controls.Add(this.btnRemoveBovino);
+            this.tabBuscar.Controls.Add(this.btnRemoveBanda);
             this.tabBuscar.Controls.Add(this.label5);
             this.tabBuscar.Controls.Add(this.txtBusca);
             this.tabBuscar.Controls.Add(this.dgBovinos);
@@ -398,23 +398,23 @@ namespace SistemaCadastro
             this.btnAlterar.UseVisualStyleBackColor = true;
             this.btnAlterar.Click += new System.EventHandler(this.btnAlterar_Click);
             // 
-            // btnRemoveBovino
+            // btnRemoveBanda
             // 
-            this.btnRemoveBovino.FlatAppearance.BorderSize = 0;
-            this.btnRemoveBovino.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnRemoveBovino.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold);
-            this.btnRemoveBovino.ForeColor = System.Drawing.Color.DimGray;
-            this.btnRemoveBovino.Image = ((System.Drawing.Image)(resources.GetObject("btnRemoveBovino.Image")));
-            this.btnRemoveBovino.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnRemoveBovino.Location = new System.Drawing.Point(363, 5);
-            this.btnRemoveBovino.Name = "btnRemoveBovino";
-            this.btnRemoveBovino.Size = new System.Drawing.Size(122, 46);
-            this.btnRemoveBovino.TabIndex = 14;
-            this.btnRemoveBovino.Text = "Remover";
-            this.btnRemoveBovino.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnRemoveBovino.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnRemoveBovino.UseVisualStyleBackColor = true;
-            this.btnRemoveBovino.Click += new System.EventHandler(this.btnRemoveBovino_Click);
+            this.btnRemoveBanda.FlatAppearance.BorderSize = 0;
+            this.btnRemoveBanda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRemoveBanda.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold);
+            this.btnRemoveBanda.ForeColor = System.Drawing.Color.DimGray;
+            this.btnRemoveBanda.Image = ((System.Drawing.Image)(resources.GetObject("btnRemoveBanda.Image")));
+            this.btnRemoveBanda.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnRemoveBanda.Location = new System.Drawing.Point(363, 5);
+            this.btnRemoveBanda.Name = "btnRemoveBanda";
+            this.btnRemoveBanda.Size = new System.Drawing.Size(122, 46);
+            this.btnRemoveBanda.TabIndex = 14;
+            this.btnRemoveBanda.Text = "Remover";
+            this.btnRemoveBanda.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnRemoveBanda.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnRemoveBanda.UseVisualStyleBackColor = true;
+            this.btnRemoveBanda.Click += new System.EventHandler(this.btnRemoveBanda_Click);
             // 
             // label5
             // 
@@ -686,7 +686,7 @@ namespace SistemaCadastro
         private System.Windows.Forms.Label lblMensagem;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtBusca;
-        private System.Windows.Forms.Button btnRemoveBovino;
+        private System.Windows.Forms.Button btnRemoveBanda;
         private System.Windows.Forms.Button btnAlterar;
         private System.Windows.Forms.TabPage tabAlterar;
         private System.Windows.Forms.TextBox txtAlterarPreco;
