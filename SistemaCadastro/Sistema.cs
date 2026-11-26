@@ -213,7 +213,6 @@ namespace SistemaCadastro
                 string.Format("nome like '{0}%'", txtBusca.Text);
         }
 
-        //remove bovino
         private void btnRemoveBanda_Click(object sender, EventArgs e)
         {
             int linha = dgBovinos.CurrentRow.Index;
@@ -237,7 +236,6 @@ namespace SistemaCadastro
                 MessageBox.Show("Exclusão cancelada");
         }
 
-        //alterar bovino
         private void btnAlterar_Click(object sender, EventArgs e)
         {
             if (dgBovinos.CurrentRow == null)
