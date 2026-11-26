@@ -414,7 +414,7 @@ namespace SistemaCadastro
             this.btnRemoveBovino.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRemoveBovino.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnRemoveBovino.UseVisualStyleBackColor = true;
-            this.btnRemoveBovino.Click += new System.EventHandler(this.btnRemoveBanda_Click);
+            this.btnRemoveBovino.Click += new System.EventHandler(this.btnRemoveBovino_Click);
             // 
             // label5
             // 

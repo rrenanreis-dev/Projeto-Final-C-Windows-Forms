@@ -213,7 +213,7 @@ namespace SistemaCadastro
                 string.Format("nome like '{0}%'", txtBusca.Text);
         }
 
-        private void btnRemoveBanda_Click(object sender, EventArgs e)
+        private void btnRemoveBovino_Click(object sender, EventArgs e)
         {
             int linha = dgBovinos.CurrentRow.Index;
             int id = Convert.ToInt32(
